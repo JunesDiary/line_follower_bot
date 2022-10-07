@@ -1,5 +1,4 @@
 # line_follower_bot
 normal line follower bot
 
-![alt text](https://github.com/JunesDiary/line_follower_bot/blob/main/Garbage_Classifying_Bot.JPG!raw=true)
-
+![Garbage_Classifying_Bot](https://user-images.githubusercontent.com/76748505/194532682-078ccc6a-8b73-4dcb-8e10-b11cbfd06ba3.JPG)
