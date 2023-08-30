@@ -22,7 +22,7 @@ Infrared sensors consist of two elements, a transmitter and a receiver. The tran
     10. Screw
 
 
-Line follower bot on display at STEX-22 , Competition organized by Institute of Radio Physics and Electronics, University of Calcutta.
+Line follower bot on display at Institute of Radio Physics and Electronics, University of Calcutta.
 <img src="https://user-images.githubusercontent.com/76748505/194532682-078ccc6a-8b73-4dcb-8e10-b11cbfd06ba3.JPG" alt="Garbage_Classifying_Bot" width="400"/>
 
 Me (Second from Left) demonstrating the bot at STEX'22, annual technology Exhibit at my University.
