@@ -27,3 +27,6 @@ Line follower bot on display at STEX-22 , Competition organized by Institute of 
 
 Me (Second from Left) demonstrating the bot at STEX'22, annual technology Exhibit at my University.
 <img src="https://user-images.githubusercontent.com/76748505/194536346-63116d81-4446-4606-a2a1-fb636123d5cd.jpg" alt="Demonstration_of_Bot" width="600"/>
+
+## References
+https://circuitdigest.com/microcontroller-projects/arduino-uno-line-follower-robot
